@@ -4,17 +4,13 @@
 
 ## The Protocol
 
-* [MIS](the-protocol/tokenomics.md)
-* [ArtemisPad](the-protocol/artemispad.md)
 * [Pools](the-protocol/staking.md)
 * [Incubator](the-protocol/incubator.md)
-* [Roadmap](the-protocol/roadmap.md)
 
 ## Community & Governance <a href="#community" id="community"></a>
 
 ***
 
-* [About MIS Launch](about-mis-launch.md)
 * [Work With Us](partner-with-us.md)
 * [Governance Model](governance-model.md)
 
